@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="label_hint">Enter amount</string>
+    <string name="label_convert">Convert</string>
+    <string name="label_destination_currency">Destination currency</string>
+    <string name="label_source_currency">Source currency</string>
+    <string name="label_jpy">JPY</string>
+    <string name="label_eur">EUR</string>
+    <string name="label_usd">USD</string>
+    <string name="warning_empty_field">empty field</string>
+    <string name="warning_please_write_number">Please write a number</string>
+    <string name="warning_same_currencies">Please select different currencies</string>
+    <string name="warning_insufficient_balance">You do not have enough funds to make a transaction</string>
+    <string name="warning_network_unavailable">Newtwork unavailable</string>
+
+</resources>
